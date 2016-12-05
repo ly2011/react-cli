@@ -5,15 +5,15 @@
 ##INSTALL
 
 ```shell
-npm install -g react-cli
+npm install -g react-template-cli
 ```
 
 ##USAGE
 
 ```shell
 // init
-react-cli init [githubowner/name#branch] [project_name]
+react-template-cli init [githubowner/name#branch] [project_name]
 // such
-react-cli init fengyun2/react-redux-shop#dev react-first-demo
+react-template-cli init fengyun2/react-redux-shop#dev react-first-demo
 ```
 
